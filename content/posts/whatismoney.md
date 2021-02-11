@@ -15,7 +15,7 @@ across time, fiat currencies are optimized for transferring across space.
 
 Bitcoin is the best form of money we have ever had.
 
-It is better than gold at preserving value across time because it's perfectly scarce, whereas the supply of gold is constantly growing by 1-3% a year. 
+It is better than gold at preserving value across time because it's perfectly scarce whereas the supply of gold is constantly growing by 1-3% a year. 
 
 Bitcoin is better than fiat at transferring value across space. It takes weeks for dollars to finally settle between banks. Bitcoin settles every ten minutes, and instantly over some second layer solutions like the Lightning network.
 
