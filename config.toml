@@ -2,6 +2,7 @@ baseURL = "https://betterthan.gold/"
 languageCode = "en-us"
 title = "Getting off zero"
 theme = "ananke"
+publishDir = "docs"
 
 [params]
   favicon = ""
