@@ -48,7 +48,7 @@ But if you don't, you will have to explain to your children why you were to apat
 *The following are some resources that have helped me in my pursuit of understanding what money is, and the role that it plays in all of our lives.*
 
 ## Purchasing Bitcoin
-**[Swan Bitcoin]("https://swanbitcoin.com/liftedkilt") -**
+**[Swan Bitcoin](https://swanbitcoin.com/liftedkilt) -**
 Swan Bitcoin is run by a team that really cares about Bitcoin as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
 
 ---
@@ -56,15 +56,15 @@ Swan Bitcoin is run by a team that really cares about Bitcoin as a force-multipl
 ## Books
 
 
-**[The Bitcoin Standard]("https://amzn.to/3jDLn3Y") -**
+**[The Bitcoin Standard](https://amzn.to/3jDLn3Y) -**
 This is the foundation of understanding the history of money, and the effects that fiat money have had on almost every aspect of our life. It is a thorough refutation of everything you learned in school, and explains why the last 100 years of monetary history are an aberration.
 
 
-**[Layered Money]("https://amzn.to/3rFTiR5") -**
+**[Layered Money](https://amzn.to/3rFTiR5) -**
 An analysis of money as it exists in layers, and why Bitcoin will be the base layer of all global money. This book was very helpful in expanding my understanding of the workings of the current monetary system.
 
 
-**[Thank God for Bitcoin]("https://amzn.to/3tO3sAO") -**
+**[Thank God for Bitcoin](https://amzn.to/3tO3sAO) -**
 Attempts to ask and answer such questions such as: 
 - What are the effects of our monetary system on our culture?
 - Does our choice of money influence our morality?
@@ -72,7 +72,7 @@ Attempts to ask and answer such questions such as:
 - Does God care about Bitcoin?
 
 
-**[The Price of Tomorrow]("https://amzn.to/3pcIdFw") -**
+**[The Price of Tomorrow](https://amzn.to/3pcIdFw) -**
 Why inflation is doomed to fail, and why deflation is the key to future prosperity.
 
 
@@ -80,7 +80,7 @@ Why inflation is doomed to fail, and why deflation is the key to future prosperi
 
 ## Videos
 
-**[Bitcoin Macro Strategy]("https://www.youtube.com/watch?v=NoobUKNttmw") -** 
+**[Bitcoin Macro Strategy](https://www.youtube.com/watch?v=NoobUKNttmw) -** 
 Discusses:
 - Bitcoin as the emerging dominant monetary network
 - The pros & cons of other assets as a treasury reserve
@@ -88,13 +88,13 @@ Discusses:
 - The history of Bitcoin & structure of the crypto industry
 - Critical developments this year and outlook for next year
 
-**[Bitcoin Masterclass]("https://www.youtube.com/watch?v=jwgOVPJ2FnU") -**
+**[Bitcoin Masterclass](https://www.youtube.com/watch?v=jwgOVPJ2FnU) -**
 You are falling further and further behind because the your purchasing power is falling 10-20% a year.
 
-**[Common Bitcoin misconceptions]("https://www.youtube.com/watch?v=AVpVcOwh2Og") -**
+**[Common Bitcoin misconceptions](https://www.youtube.com/watch?v=AVpVcOwh2Og) -**
 Addresses common concerns and misunderstandings that people have about bitcoin.
 
-**[The Saylor Series]("https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0") -** 
+**[The Saylor Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0) -** 
 What is money? A 9 episode series chronicling the history of channeling energy, and how and why Bitcoin is the apex predator of money.
 
 
@@ -102,11 +102,11 @@ What is money? A 9 episode series chronicling the history of channeling energy, 
 
 ## Articles
 
-**[Masters and Slaves of Money]("https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f") -** Money is a tool for trading human time. Central banks, the modern-era masters of money, wield this tool as a weapon to steal time and inflict wealth inequality. History shows us that the corruption of monetary systems leads to moral decay, social collapse, and slavery. As the temptation to manipulate money has always proven to be too strong for mankind to resist, the only antidote for this poison is an incorruptible money — Bitcoin.
+**[Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f) -** Money is a tool for trading human time. Central banks, the modern-era masters of money, wield this tool as a weapon to steal time and inflict wealth inequality. History shows us that the corruption of monetary systems leads to moral decay, social collapse, and slavery. As the temptation to manipulate money has always proven to be too strong for mankind to resist, the only antidote for this poison is an incorruptible money — Bitcoin.
 
 
-**[Why the Yuppy Elite Dismiss Bitcoin]("https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin") -** A good number of highly educated folks outright dismiss bitcoin and seem incapable of understanding it. Why?
+**[Why the Yuppy Elite Dismiss Bitcoin](https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin) -** A good number of highly educated folks outright dismiss bitcoin and seem incapable of understanding it. Why?
 
-**[The Bullish Case for Bitcoin]("https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1") -** Written in 2018, this article lays out the case for Bitcoin's success.
+**[The Bullish Case for Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1) -** Written in 2018, this article lays out the case for Bitcoin's success.
 
-**[Gradually, Then Suddenly Series]("https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/") -** Parker Lewis has written a great set or articles explaining key areas of Bitcoin.
+**[Gradually, Then Suddenly Series](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/) -** Parker Lewis has written a great set or articles explaining key areas of Bitcoin.
