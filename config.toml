@@ -7,7 +7,7 @@ publishDir = "docs"
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Acquire bitcoin at any cost."
   facebook = ""
   twitter = "https://twitter.com/liftedkilt_"
   instagram = ""
