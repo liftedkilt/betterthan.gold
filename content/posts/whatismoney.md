@@ -107,4 +107,4 @@ What is money? A 9 episode series chronicling the history of channeling energy, 
 
 **[The Bullish Case for Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1) -** Written in 2018, this article lays out the case for Bitcoin's success.
 
-**[Gradually, Then Suddenly Series](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/) -** Parker Lewis has written a great set or articles explaining key areas of Bitcoin.
+**[Gradually, Then Suddenly Series](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/) -** Parker Lewis has written a great set of articles explaining key areas of Bitcoin.
