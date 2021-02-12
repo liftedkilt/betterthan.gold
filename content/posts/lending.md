@@ -70,7 +70,7 @@ In the meantime, there are two main places to go.
 
 [Unchained Capital](https://unchained-capital.com/loans/) offers a 40% LTV ratio with APR between 11 and 14%.
 
-[BlockFi](https://blockfi.com/crypto-loans) is currently offering 4.5% APR on a 50% LTV 12 month loan. 
+[BlockFi](https://blockfi.com/?ref=deeb3afc) is currently offering 4.5% APR on a 50% LTV 12 month loan. 
 
 BlockFi's rates are far better than Unchained, but come with the caveat that BlockFi engages in [rehypothecation](https://blockfi.com/an-introduction-to-rehypothecation-with-cryptocurrency). Does this matter in the short term? Probably not. But DYOR, and only take on risk you are comfortable with. 
 
