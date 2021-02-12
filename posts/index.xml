@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Getting off zero</title>
-    <link>https://betterthan.gold/posts/</link>
-    <description>Recent content in Posts on Getting off zero</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 11 Feb 2021 10:04:18 -0800</lastBuildDate><atom:link href="https://betterthan.gold/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What is money?</title>
-      <link>https://betterthan.gold/posts/whatismoney/</link>
-      <pubDate>Thu, 11 Feb 2021 10:04:18 -0800</pubDate>
-      
-      <guid>https://betterthan.gold/posts/whatismoney/</guid>
-      <description>We&amp;rsquo;re on the brink of the largest technological change in money the world has ever seen. Bitcoin isn&amp;rsquo;t just a good idea — It&amp;rsquo;s the discovery of digital scarcity.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Getting off zero</title><link>https://betterthan.gold/posts/</link><description>Recent content in Posts on Getting off zero</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 11 Feb 2021 10:04:18 -0800</lastBuildDate><atom:link href="https://betterthan.gold/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>What is money?</title><link>https://betterthan.gold/posts/whatismoney/</link><pubDate>Thu, 11 Feb 2021 10:04:18 -0800</pubDate><guid>https://betterthan.gold/posts/whatismoney/</guid><description>We&amp;rsquo;re on the brink of the largest technological change in money the world has ever seen. Bitcoin isn&amp;rsquo;t just a good idea — It&amp;rsquo;s the discovery of digital scarcity.
 Money is Technology Money is a technology for preserving the rewards of our labor across time and transferring them across space. Gold was optimized for preserving across time, fiat currencies are optimized for transferring across space.
-Bitcoin is the best form of money we have ever had.</description>
-    </item>
-    
-  </channel>
-</rss>
+Bitcoin is the best form of money we have ever had.</description></item></channel></rss>
