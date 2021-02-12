@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Getting off zero"
 theme = "ananke"
 publishDir = "docs"
-googleAnalytics = "G-0KSFHRX6DW"
 
 [params]
   favicon = ""
