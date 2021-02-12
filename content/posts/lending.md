@@ -19,8 +19,6 @@ Bitcoin is not only money, it's the best performing asset of the last decade. Ba
 
 ![](https://i.kym-cdn.com/entries/icons/facebook/000/033/222/moneyprintergobrrr.jpg
 )
-<!-- {{< giphy Y2ZUWLrTy63j9T6qrK >}} -->
-
 
 Given the best money in human history, what could you possibly trade it for that will be a worthwhile trade?
 
@@ -66,7 +64,7 @@ More recently, Michael Saylor discussed this topic in his session on "[Bitcoin C
 
 Well, there is good news, but with a caveat.
 
-The Bitcoin lending markets are still young, so the interest rates are rather high. In the future, expect sub 1% interest rates on borrowing against your Bitcoin, beacuse it's the best possible collateral.
+The Bitcoin lending markets are still young, so the interest rates are rather high. In the future, expect sub 1% interest rates on borrowing against your Bitcoin, because it's the best possible collateral.
 
 In the meantime, there are two main places to go.
 
