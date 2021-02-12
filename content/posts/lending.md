@@ -15,7 +15,7 @@ The answer to that is easy.
 {{< giphy 15aGGXfSlat2dP6ohs >}}
 
 
-Bitcoin is not only money, it's the best performing asset of the last decade. Based on the smoke rising from the printers of the federal reserve, it appears likely to not only continue on that path, but accelerate over the next decade.
+Bitcoin is the best performing asset of the last decade. Based on the smoke rising from the printers of the federal reserve, it appears likely to not only continue on that path, but accelerate over the next decade.
 
 ![](https://i.kym-cdn.com/entries/icons/facebook/000/033/222/moneyprintergobrrr.jpg
 )
