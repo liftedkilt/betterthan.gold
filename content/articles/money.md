@@ -3,6 +3,7 @@ title: "What is money?"
 date: 2021-02-11T10:04:18-08:00
 draft: false
 featured_image: "images/time_is_money.png"
+summary: Money is a technology for preserving and transferring the value of human labor.
 ---
 
 ### Money is a technology for preserving and transferring the value of human labor.

@@ -6,7 +6,7 @@ featured_image: "images/barbell.jpg"
 ---
 
 We're on the brink of the largest technological change in money the world has ever seen. Bitcoin isn't just a **good** idea — It's the discovery of digital scarcity.
-
+<!--more-->
 ### Bitcoin is the best money we have ever had.
 
 It is better than gold at preserving value across time because it's perfectly scarce whereas the supply of gold is constantly growing by 1-3% a year. With everything else in this world, if the demand increases, supply will rise to meet it. If gold rises in price, gold miners dig faster to increase supply.

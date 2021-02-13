@@ -9,7 +9,7 @@ menu: main
 ---
 
 *The following are some resources that have helped me in my pursuit of understanding what money is, and the role that it plays in all of our lives.*
-
+<!--more-->
 ## Purchasing Bitcoin
 **[Swan Bitcoin](https://swanbitcoin.com/liftedkilt) -**
 Swan Bitcoin is run by a team that really cares about Bitcoin as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.

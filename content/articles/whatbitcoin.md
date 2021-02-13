@@ -6,7 +6,7 @@ featured_image: "images/what_is_bitcoin.jpg"
 ---
 
 Bitcoin is a peer-to-peer, distributed ledger. It's merely a large record of who has the right to spend what. The beauty lies in the simplicity.
-
+<!--more-->
 Bitcoin has three levels of trustlessness.
 
 1. [Distributed information](#distributed-information)

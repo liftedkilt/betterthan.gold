@@ -3,6 +3,7 @@ title: "Never sell"
 date: 2021-02-11T20:27:19-08:00
 draft: false
 featured_image: "images/sell_bitcoin.jpg"
+summary: Looking to sell your Bitcoin? Have fun staying poor.
 ---
 There are two kinds of idiots: Those that have no Bitcoin, and those that sell their Bitcoin.
 
