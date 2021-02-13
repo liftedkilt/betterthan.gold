@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Getting off zero</title>
-    <link>https://betterthan.gold/</link>
-    <description>Recent content on Getting off zero</description>
+    <title>Articles on Getting off zero</title>
+    <link>https://betterthan.gold/articles/</link>
+    <description>Recent content in Articles on Getting off zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Feb 2021 20:27:19 -0800</lastBuildDate><atom:link href="https://betterthan.gold/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resources</title>
-      <link>https://betterthan.gold/resources/</link>
-      <pubDate>Fri, 12 Feb 2021 12:30:09 -0800</pubDate>
-      
-      <guid>https://betterthan.gold/resources/</guid>
-      <description>The following are some resources that have helped me in my pursuit of understanding what money is, and the role that it plays in all of our lives.
-Purchasing Bitcoin Swan Bitcoin - Swan Bitcoin is run by a team that really cares about Bitcoin as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
- Books The Bitcoin Standard - This is the foundation of understanding the history of money, and the effects that fiat money have had on almost every aspect of our life.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 11 Feb 2021 20:27:19 -0800</lastBuildDate><atom:link href="https://betterthan.gold/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Never sell</title>
       <link>https://betterthan.gold/articles/lending/</link>

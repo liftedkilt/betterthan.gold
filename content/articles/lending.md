@@ -75,3 +75,13 @@ In the meantime, there are two main places to go.
 BlockFi's rates are far better than Unchained, but come with the caveat that BlockFi engages in [rehypothecation](https://blockfi.com/an-introduction-to-rehypothecation-with-cryptocurrency). Does this matter in the short term? Probably not. But DYOR, and only take on risk you are comfortable with. 
 
 If it was a smaller short-duration loan, I would feel comfortable using BlockFi. If I was putting up significant capital, I would feel safer with Unchained.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+## Ready to learn more?
+Here are some [resources](/resources) that I have found helpful in my own pursuit of understanding of Bitcoin.
