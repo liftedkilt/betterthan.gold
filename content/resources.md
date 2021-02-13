@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 date: 2021-02-12T12:30:09-08:00
-featured_image: "images/barbell.jpg"
+featured_image: "images/bitcoin-graph.jpg"
 description: 'Resources that have helped me in my pursuit of Bitcoin.'
 omit_header_text: true
 # type: page
