@@ -7,6 +7,7 @@ featured_image: "images/what_is_bitcoin.jpg"
 
 Bitcoin is a peer-to-peer, distributed ledger. It's merely a large record of who has the right to spend what. The beauty lies in the simplicity.
 <!--more-->
+
 Bitcoin has three levels of trustlessness.
 
 1. [Distributed information](#distributed-information)
@@ -19,13 +20,13 @@ Bitcoin has three levels of trustlessness.
 
 The first important feature of Bitcoin is that it is distributed. Unlike VISA, PayPal, or even your Chase Checking account, the Bitcoin ledger is distributed around the world to anyone who is interested in running the Bitcoin software.
 
-Bitcoin users who run the software run what is called a "Bitcoin Node." They store the record of every transaction that has ever occured on the Bitcoin blockchain.
+The bitcoin software are called node operators. They store the record of every transaction that has ever occured on the Bitcoin blockchain. There is no cost to do this, apart from a few hundred GB of disk space to store the Blockchain data.
 
-This enables a Bitcoiner to check the balance of their wallets in complete privacy - no need to disclose to a third party what addresses you are looking up. 
+This enables a Bitcoiner to check the balance of their wallets in complete privacy - no need to disclose to a third party what addresses you are looking up.
 
 It also allows a Bitcoiner to validate that transactions are actually occuring on the network, without relying on a trusted third-party to tell them the state of the world.
 
-Do you still reconcile your bank statements? Or do you just trust that your bank isn't skimming money off the top and hoping that you don't notice. You are trusting companies which run by sinful corrupt humans to manage your money for you. They hold all the cards, and leave you with nothing more than a pat on the head and a bank statement as a consolation prize.
+Do you still reconcile your bank statements? If you are like most of us, you just trust that your bank isn't skimming money off the top and hoping that you don't notice. You are trusting companies which run by sinful corrupt humans to manage your money for you. They hold all the cards, and leave you with nothing more than a pat on the head and a bank statement as a consolation prize.
 
 {{< giphy xUNd9JmsrWkrYnLcU8 >}}
 

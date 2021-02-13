@@ -8,11 +8,12 @@ omit_header_text: true
 menu: main
 ---
 
-*The following are some resources that have helped me in my pursuit of understanding what money is, and the role that it plays in all of our lives.*
+*The following are some resources that have helped me in my pursuit of understanding money in general, and Bitcoin specifically.*
+
 <!--more-->
 ## Purchasing Bitcoin
 **[Swan Bitcoin](https://swanbitcoin.com/liftedkilt) -**
-Swan Bitcoin is run by a team that really cares about Bitcoin as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
+Swan Bitcoin is run by a team that really cares about Bitcoin. They are a Bitcoin only-company, and are focused on it's power as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
 
 ---
 
@@ -24,7 +25,7 @@ This is the foundation of understanding the history of money, and the effects th
 
 
 **[Layered Money](https://amzn.to/3rFTiR5) -**
-An analysis of money as it exists in layers, and why Bitcoin will be the base layer of all global money. This book was very helpful in expanding my understanding of the workings of the current monetary system.
+An analysis of money as as viewed through a framework of layers, and why Bitcoin will become the base layer of all global money. This book was very helpful in expanding my understanding of the workings of the current monetary system, and why it developed the way that it did.
 
 
 **[Thank God for Bitcoin](https://amzn.to/3tO3sAO) -**
@@ -36,7 +37,7 @@ Attempts to ask and answer such questions such as:
 
 
 **[The Price of Tomorrow](https://amzn.to/3pcIdFw) -**
-Why inflation is doomed to fail, and why deflation is the key to future prosperity.
+Why inflation is doomed to fail, and deflation is the key to future prosperity.
 
 
 ---
@@ -52,7 +53,7 @@ Discusses:
 - Critical developments this year and outlook for next year
 
 **[Bitcoin Masterclass](https://www.youtube.com/watch?v=jwgOVPJ2FnU) -**
-You are falling further and further behind because the your purchasing power is falling 10-20% a year.
+You are falling further and further behind because the your purchasing power is being reduced by 10-20% a year. An interview with a brilliant billionaire who lays out the facts and demonstrates why you will never be able to catch up under the current system.
 
 **[Common Bitcoin misconceptions](https://www.youtube.com/watch?v=AVpVcOwh2Og) -**
 Addresses common concerns and misunderstandings that people have about bitcoin.
@@ -67,9 +68,8 @@ What is money? A 9 episode series chronicling the history of channeling energy, 
 
 **[Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f) -** Money is a tool for trading human time. Central banks, the modern-era masters of money, wield this tool as a weapon to steal time and inflict wealth inequality. History shows us that the corruption of monetary systems leads to moral decay, social collapse, and slavery. As the temptation to manipulate money has always proven to be too strong for mankind to resist, the only antidote for this poison is an incorruptible money — Bitcoin.
 
-
 **[Why the Yuppy Elite Dismiss Bitcoin](https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin) -** A good number of highly educated folks outright dismiss bitcoin and seem incapable of understanding it. Why?
 
 **[The Bullish Case for Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1) -** Written in 2018, this article lays out the case for Bitcoin's success.
 
-**[Gradually, Then Suddenly Series](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/) -** Parker Lewis has written a great set of articles explaining key areas of Bitcoin.
+**[Gradually, Then Suddenly Series](https://unchained-capital.com/blog/dollar-crisis-to-bitcoin/) -** Parker Lewis has written a great set of articles explaining key areas of Bitcoin adoption and game theory.
