@@ -30,7 +30,7 @@ Remember it's up to you to determine how much of a hurry you are in! If you are 
 
 A Bitcoin block allows you to view information about the state of the bitcoin network, as well as view transactions and address details.
 
-You can look up your own transactions here, and my node will verify that it knows about them and that they have actually occured as expected.
+You can look up your own transactions here, and my node will verify that it knows about them and that they have actually occurred as expected.
 
 &nbsp;
 
