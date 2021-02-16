@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mining on Getting off zero</title>
+    <link>https://betterthan.gold/tags/mining/</link>
+    <description>Recent content in mining on Getting off zero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Feb 2021 10:04:18 -0800</lastBuildDate><atom:link href="https://betterthan.gold/tags/mining/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What actually is Bitcoin?</title>
+      <link>https://betterthan.gold/articles/whatbitcoin/</link>
+      <pubDate>Thu, 11 Feb 2021 10:04:18 -0800</pubDate>
+      
+      <guid>https://betterthan.gold/articles/whatbitcoin/</guid>
+      <description>&lt;p&gt;Bitcoin is a peer-to-peer, distributed ledger. It&amp;rsquo;s merely a large record of who has the right to spend what. The beauty lies in the simplicity.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
