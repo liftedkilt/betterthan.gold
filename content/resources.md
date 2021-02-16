@@ -58,14 +58,14 @@ You are falling further and further behind because the your purchasing power is 
 Addresses common concerns and misunderstandings that people have about bitcoin.
 
 **[The Saylor Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0) -** 
-What is money? A 9 episode series chronicling the history of channeling energy, and how and why Bitcoin is the apex predator of money.
+What is money? A 9 episode series chronicling the history of channeling energy, and how and why bitcoin is the apex predator of money.
 
 
 ---
 
 ## Articles
 
-**[Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f) -** Money is a tool for trading human time. Central banks, the modern-era masters of money, wield this tool as a weapon to steal time and inflict wealth inequality. History shows us that the corruption of monetary systems leads to moral decay, social collapse, and slavery. As the temptation to manipulate money has always proven to be too strong for mankind to resist, the only antidote for this poison is an incorruptible money — Bitcoin.
+**[Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f) -** Money is a tool for trading human time. Central banks, the modern-era masters of money, wield this tool as a weapon to steal time and inflict wealth inequality. History shows us that the corruption of monetary systems leads to moral decay, social collapse, and slavery. As the temptation to manipulate money has always proven to be too strong for mankind to resist, the only antidote for this poison is an incorruptible money — bitcoin.
 
 **[Why the Yuppy Elite Dismiss Bitcoin](https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin) -** A good number of highly educated folks outright dismiss bitcoin and seem incapable of understanding it. Why?
 

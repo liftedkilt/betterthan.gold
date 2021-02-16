@@ -83,13 +83,13 @@ The pennies on our island and gold both failed for the same reason - they implic
 
 ### Don't trust, verify.
 
-This is one of the many things that Bitcoin has finally solved. Bitcoin is a digital, decentralized money.
+This is one of the many things that bitcoin has finally solved. Bitcoin is a digital, decentralized money.
 
-{{< figure src="/images/bitcoin_supply.png" caption="*This is the programmatic Bitcoin supply*" >}}
+{{< figure src="/images/bitcoin_supply.png" caption="*This is the programmatic bitcoin supply*" >}}
 
 As a decentralized money, nobody controls the issuance of it. It has been predetermined, and is available for all to see. It's perfectly fair, and no government, bank, or cantillonaire can impose their will upon it. 
 
-There will only ever be 21 million bitcoin. Due to Bitcoin being a digital money, the total supply of Bitcoin is perfectly auditable at any time, by anyone (see [this](https://blog.btse.com/audit-bitcoin/) for more information.) If anyone were to ever attempt to cheat and create more Bitcoin than they had earned or purchased, it would be instantly rejected by the entirety of the network.
+There will only ever be 21 million bitcoin. Due to Bitcoin being a digital money, the total supply of bitcoin is perfectly auditable at any time, by anyone (see [this](https://blog.btse.com/audit-bitcoin/) for more information.) If anyone were to ever attempt to cheat and create more bitcoin than they had earned or purchased, it would be instantly rejected by the entirety of the network.
 
 Bitcoin is honest money. It's built upon the idea that we are all fallen, sinful men. Nobody can be trusted to honestly and incorruptibly hold the keys to the monetary printing press.
 

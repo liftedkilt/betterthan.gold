@@ -5,11 +5,11 @@ draft: false
 featured_image: "images/sell_bitcoin.jpg"
 summary: Looking to sell your Bitcoin? Have fun staying poor.
 ---
-There are two kinds of idiots: Those that have no Bitcoin, and those that sell their Bitcoin.
+There are two kinds of idiots: Those that have no bitcoin, and those that sell their bitcoin.
 
 ---
 
-People always ask me when I will sell my Bitcoin.
+People always ask me when I will sell my bitcoin.
 
 The answer to that is easy.
 
@@ -24,23 +24,23 @@ Bitcoin is the best performing asset of the last decade. Based on the smoke risi
 Given the best money in human history, what could you possibly trade it for that will be a worthwhile trade?
 
 I know what you're about to say!
-- *"If you're telling me I am not allowed to ever sell my Bitcoin, then what can I actually do with it?*
+- *"If you're telling me I am not allowed to ever sell my bitcoin, then what can I actually do with it?*
 - *Don't I have to sell in order to realize the gains on this investment?"*
 
-Let's answer the second question first. No, you don't have to sell Bitcoin to realize any gains. Bitcoin *is* the gain!
+Let's answer the second question first. No, you don't have to sell bitcoin to realize any gains. Bitcoin *is* the gain!
 
 Let's demonstrate with a more familiar example. Let's pretend you live in Argentina, and your currency has been decimated over the last decade. Being the prescient financial wizard you are, you exchanged all your pesos for US dollars when the peso traded 1:1 with the dollar. As the peso depreciated, you watched your $100,000 go from 100,000 pesos worth to 1,000,000 pesos worth, to 10,000,000 pesos worth, to 100,000,000 pesos. Would you convert back to pesos in order to "realize your gains?"
 
-Of course not! You would thank the Lord that your life savings had been stored in the harder money that hadn't depreciated, and you would never hold pesos again. Now go back and replace the dollar with BTC, and the peso with the dollar. The dollar has lost over 98% of it's value measured in Bitcoin. Why would you ever want to go back?
+Of course not! You would thank the Lord that your life savings had been stored in the harder money that hadn't depreciated, and you would never hold pesos again. Now go back and replace the dollar with BTC, and the peso with the dollar. The dollar has lost over 98% of it's value measured in bitcoin. Why would you ever want to go back?
 
-Now we can answer the first question - what utility does Bitcoin provide if you should never sell it?
+Now we can answer the first question - what utility does bitcoin provide if you should never sell it?
 
 ### Collateral. 
-Bitcoin is the most pristine collateral the world has ever seen. You should post your Bitcoin as collateral, and borrow against it into the weaker currency.
+Bitcoin is the most pristine collateral the world has ever seen. You should post your bitcoin as collateral, and borrow against it into the weaker currency.
 
 Let's run through an example to see how that would work:
 
-You hold 2 BTC, worth $100,000. You post that Bitcoin as collateral, and borrow at a 50% loan-to-value. You now have $50k in cash, which you can go spend on a Tesla Cybertruck. The truck cost you $45k, which left you $5k. You begin to make payments on your loan with the $5k, and in the meantime your Bitcoin continues to appreciate in dollar terms.
+You hold 2 BTC, worth $100,000. You post that bitcoin as collateral, and borrow at a 50% loan-to-value. You now have $50k in cash, which you can go spend on a Tesla Cybertruck. The truck cost you $45k, which left you $5k. You begin to make payments on your loan with the $5k, and in the meantime your bitcoin continues to appreciate in dollar terms.
 
 6 months later, your 2 BTC collateral is now worth $250,000. The $50,000 you borrowed is now a loan-to-value ratio of 20%. You can start to slowly borrow back up towards the upper end of your loan-to-value ratio, and use the newly issued debt to make the payments on your existing debt, as well as finance new purchases you are making.
 
@@ -48,7 +48,7 @@ What you are doing is taking advantage of the weakening dollar. Exciting, isn't 
 
 {{< giphy XXdiedv0abxEIZxkQz >}}
 
-This rationale can be extended the other direction as well. If you have equity in dollar-denominated assets, you should borrow against them, and buy Bitcoin with it. Why? Because the cost of repaying the debt in dollars will only get cheaper as the dollar falls in value, while the value of your Bitcoin will only rise.
+This rationale can be extended the other direction as well. If you have equity in dollar-denominated assets, you should borrow against them, and buy bitcoin with it. Why? Because the cost of repaying the debt in dollars will only get cheaper as the dollar falls in value, while the value of your bitcoin will only rise.
 
 Do you own a home? Take out a home equity loan.
 
@@ -61,11 +61,11 @@ Pierre Rochard has been talking about it since 2014 with his article "[Speculati
 More recently, Michael Saylor discussed this topic in his session on "[Bitcoin Corporate Strategy](https://www.youtube.com/watch?v=pX76yXk0cT0
 )."
 
-### So how do I borrow against my Bitcoin now?
+### So how do I borrow against my bitcoin now?
 
 Well, there is good news, but with a caveat.
 
-The Bitcoin lending markets are still young, so the interest rates are rather high. In the future, expect sub 1% interest rates on borrowing against your Bitcoin, because it's the best possible collateral.
+The bitcoin lending markets are still young, so the interest rates are rather high. In the future, expect sub 1% interest rates on borrowing against your bitcoin, because it's the best possible collateral.
 
 In the meantime, there are two main places to go.
 

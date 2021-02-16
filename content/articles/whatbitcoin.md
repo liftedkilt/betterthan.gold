@@ -20,7 +20,7 @@ Bitcoin has three levels of trustlessness.
 
 The first important feature of Bitcoin is that it is distributed. Unlike VISA, PayPal, or even your Chase Checking account, the Bitcoin ledger is distributed around the world to anyone who is interested in running the Bitcoin software.
 
-The bitcoin software are called node operators. They store the record of every transaction that has ever occured on the Bitcoin blockchain. There is no cost to do this, apart from a few hundred GB of disk space to store the Blockchain data.
+Running the Bitcon software is called operating a "Bitcoin node." A Bitcoin node stores the record of every transaction that has ever occured on the Bitcoin blockchain. There is no cost to do this, apart from a few hundred GB of disk space to store the Blockchain data. If space is limited, you are able to "prune" the history and only only keep a copy of the last few weeks of transactions, as well as the list of all currently spendable coins, which is called the UTXO set.
 
 This enables a Bitcoiner to check the balance of their wallets in complete privacy - no need to disclose to a third party what addresses you are looking up.
 
@@ -38,19 +38,19 @@ With the public key, you can drop mail into the box. Give your public key to any
 
 {{< figure src="/images/usps_dropbox.jpg" class="w-30 center" >}}
 
-Bitcoin addresses are derived from a public key. When you spend Bitcoin, your wallet software will sign the input of the transaction with your private key, proving that you have the authority to spend the Bitcoin which was associated with that input.
+Bitcoin addresses are derived from a public key. When you spend bitcoin, your wallet software will sign the input of the transaction with your private key, proving that you have the authority to spend the bitcoin which was associated with that input.
 
-What this means is that every single transaction on the bitcoin network is guaranteed to be unforgable - no person has ever spent any amount of Bitcoin that they weren't authorized to spend.
+What this means is that every single transaction on the Bitcoin network is guaranteed to be unforgable - no person has ever spent any amount of bitcoin that they weren't authorized to spend.
 
 ## Proof of Work
 
 In a centralized system, it's easy to determine the state of the world. When VISA says that the transaction has gone through, everyone accepts it as truth.
 
-In a decentralized system, however, it's quite a bit trickier. What is to prevent me from taking some of my Bitcoin and sending it to you, while simultaneously creating another transaction that sends the same Bitcoin to someone else?
+In a decentralized system, however, it's quite a bit trickier. What is to prevent me from taking some of my bitcoin and sending it to you, while simultaneously creating another transaction that sends the same bitcoin to someone else?
 
 This is called the double-spend problem. It's also referred to as the [Byzantine Generals problem](https://coincentral.com/byzantine-generals-problem/).
 
-In order to resolve this issue, bitcoin leverages a simple but ingenious solution. Every signed bitcoin transaction is valid (because of the digital signature), but it's not immediately committed.
+In order to resolve this issue, Bitcoin leverages a simple but ingenious solution. Every signed transaction is valid (because of the digital signature), but it's not immediately committed.
 
 ### A brief interlude
 
@@ -60,13 +60,13 @@ Hashing is unpredictable, in that the output follows no pattern, and is not gues
 
 Hashing is also a one-way function. Once given a hash, there's no way to determine what the original data was that created it. However it is trivial to generate the hash of any given piece of data.
 
-By way of example, the SHA256 hashes of the words 'bitcoin' and 'Bitcoin' (capital B) are completely different:
+By way of example, the SHA256 hashes of the words 'Bitcoin' (the network protocol) and 'bitcoin' (the monetary unit that is exists in that network) are completely different:
 
 ```
-$ printf bitcoin | sha256sum
-b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4  -
 $ printf Bitcoin | sha256sum
 6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b  -
+$ printf bitcoin | sha256sum
+b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4  -
 ```
 
 ### Back to transactions, you blockhead!
@@ -77,11 +77,11 @@ Miners must then take the contents of the entire block, the hash of the previous
 
 Since there is no better way to find this nonce than blind trial and error, it Bitcoin miners work very hard to find this number.
 
-The number of zeros they are looking for is determined automatically by the bitcoin protocol, and is self-adjusting such that blocks are "solved" every 10 minutes, on average.
+The number of zeros they are looking for is determined automatically by the Bitcoin protocol, and is self-adjusting such that blocks are "solved" every 10 minutes, on average.
 
 ### How does the nonce solve the Byzantine Generals problem?
 
-The bitcoin protocol specifies that the longest chain of blocks represents the true state of the network.
+The Bitcoin protocol specifies that the longest chain of blocks represents the true state of the network.
 
 Because of the tremendous tremendous amount of computational power required to solve the solution, it's not possible for someone to alter the state of a transaction once it has a few blocks mined on top of it.
 
@@ -97,9 +97,9 @@ It all comes down to money.
 > 
 >\- Charlie Munger
 
-When you submit a transaction to the bitcoin network, you offer a tip to whichever miner will include your transaction in a block. Space in the blockchain is precious, so there's always competition to get in. Miners will prioritize transactions that tip the best, at the cost of increased expense for the sender.
+When you submit a transaction to the Bitcoin network, you offer a tip to whichever miner will include your transaction in a block. Space in the blockchain is precious, so there's always competition to get in. Miners will prioritize transactions that tip the best, at the cost of increased expense for the sender.
 
-The other incentive for miners is also the mechanism by which new Bitcoin is drip-fed into the system. Whichever miner solves the block is allowed to pay themselves a block reward.
+The other incentive for miners is also the mechanism by which new bitcoin is drip-fed into the system. Whichever miner solves the block is allowed to pay themselves a block reward.
 
 This reward was 50 BTC. It is programatically cut in half every 4 years (210,000 blocks), and is currently 6.25 BTC.
 
