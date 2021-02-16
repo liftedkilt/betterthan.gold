@@ -12,7 +12,7 @@ menu: main
 <!--more-->
 ## Purchasing Bitcoin
 **[Swan Bitcoin](https://swanbitcoin.com/betterthangold) -**
-Swan Bitcoin is run by a team that really cares about Bitcoin. They are a Bitcoin only-company, and are focused on it's power as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
+Swan Bitcoin is run by a team that really cares about Bitcoin. They are a Bitcoin only-company, and are focused on its power as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
 
 ---
 
@@ -28,7 +28,7 @@ An analysis of money as as viewed through a framework of layers, and why Bitcoin
 
 
 **[Thank God for Bitcoin](https://amzn.to/3tO3sAO) -**
-Attempts to ask and answer such questions such as: 
+Attempts to ask and answer such questions such as:
 - What are the effects of our monetary system on our culture?
 - Does our choice of money influence our morality?
 - Do Christians have an obligation to fight for sound money?
@@ -43,7 +43,7 @@ Why inflation is doomed to fail, and deflation is the key to future prosperity.
 
 ## Videos
 
-**[Bitcoin Macro Strategy](https://www.youtube.com/watch?v=NoobUKNttmw) -** 
+**[Bitcoin Macro Strategy](https://www.youtube.com/watch?v=NoobUKNttmw) -**
 Discusses:
 - Bitcoin as the emerging dominant monetary network
 - The pros & cons of other assets as a treasury reserve
@@ -57,7 +57,7 @@ You are falling further and further behind because the your purchasing power is 
 **[Common Bitcoin misconceptions](https://www.youtube.com/watch?v=AVpVcOwh2Og) -**
 Addresses common concerns and misunderstandings that people have about bitcoin.
 
-**[The Saylor Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0) -** 
+**[The Saylor Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0) -**
 What is money? A 9 episode series chronicling the history of channeling energy, and how and why bitcoin is the apex predator of money.
 
 
