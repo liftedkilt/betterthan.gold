@@ -4,7 +4,6 @@ date: 2021-02-12T12:30:09-08:00
 featured_image: "images/bitcoin-graph.jpg"
 description: 'Resources that have helped me in my pursuit of Bitcoin.'
 omit_header_text: true
-# type: page
 menu: main
 ---
 
@@ -12,7 +11,7 @@ menu: main
 
 <!--more-->
 ## Purchasing Bitcoin
-**[Swan Bitcoin](https://swanbitcoin.com/liftedkilt) -**
+**[Swan Bitcoin](https://swanbitcoin.com/betterthangold) -**
 Swan Bitcoin is run by a team that really cares about Bitcoin. They are a Bitcoin only-company, and are focused on it's power as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
 
 ---
