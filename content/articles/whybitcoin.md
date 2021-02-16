@@ -11,7 +11,7 @@ We're on the brink of the largest technological change in money the world has ev
 
 Bitcoin is better than fiat at transferring value across space. It takes weeks for dollars to finally settle between banks. Bitcoin settles every ten minutes (and instantly over some second layer solutions like the Lightning network.)
 
-It is better than gold (the best store of value we have ever had) at preserving value across time because it's perfectly scarce. Gold is mined out of the earth at a rate of 1-3% of the total supply annually. For any normal tangible good, supply increases to meet demand. Bitcoin has a very unique property that differentiates it from anything else humans have ever experienced — programatic scarcity. Regardless of the demand for it, the incoming supply is unaffected. Every four years the amount of new bitcoin being mined is reduced in half.
+It is better than gold (the best store of value we have ever had) at preserving value across time because it's perfectly scarce. Gold is mined out of the earth at a rate of 1-3% of the total supply annually. For any normal tangible good, supply increases to meet demand. Bitcoin has a very unique property that differentiates it from anything else humans have ever experienced — programmatic scarcity. Regardless of the demand for it, the incoming supply is unaffected. Every four years the amount of new bitcoin being mined is reduced in half.
 
 Because bitcoin is the first monetary good that is immune to dilution through supply inflation, it is the best vessel to store value across time.
 

@@ -40,7 +40,7 @@
 <meta itemprop="description" content="Bitcoin is a peer-to-peer, distributed ledger. It&rsquo;s merely a large record of who has the right to spend what. The beauty lies in the simplicity.">
 <meta itemprop="datePublished" content="2021-02-11T10:04:18-08:00" />
 <meta itemprop="dateModified" content="2021-02-11T10:04:18-08:00" />
-<meta itemprop="wordCount" content="1303">
+<meta itemprop="wordCount" content="1301">
 
 
 
@@ -190,9 +190,9 @@
 </ol>
 <h2 id="distributed-information">Distributed information</h2>
 <p>The first important feature of Bitcoin is that it is distributed. Unlike VISA, PayPal, or even your Chase Checking account, the Bitcoin ledger is distributed around the world to anyone who is interested in running the Bitcoin software.</p>
-<p>Running the Bitcon software is called operating a &ldquo;Bitcoin node.&rdquo; A Bitcoin node stores the record of every transaction that has ever occured on the Bitcoin blockchain. There is no cost to do this, apart from a few hundred GB of disk space to store the Blockchain data. If space is limited, you are able to &ldquo;prune&rdquo; the history and only only keep a copy of the last few weeks of transactions, as well as the list of all currently spendable coins, which is called the UTXO set.</p>
+<p>Running the Bitcoin software is called operating a &ldquo;Bitcoin node.&rdquo; A Bitcoin node stores the record of every transaction that has ever occurred on the Bitcoin blockchain. There is no cost to do this, apart from a few hundred GB of disk space to store the Blockchain data. If space is limited, you are able to &ldquo;prune&rdquo; the history and only keep a copy of the last few weeks of transactions, as well as the list of all currently spendable coins, which is called the UTXO set.</p>
 <p>This enables a Bitcoiner to check the balance of their wallets in complete privacy - no need to disclose to a third party what addresses you are looking up.</p>
-<p>It also allows a Bitcoiner to validate that transactions are actually occuring on the network, without relying on a trusted third-party to tell them the state of the world.</p>
+<p>It also allows a Bitcoiner to validate that transactions are actually occurring on the network, without relying on a trusted third-party to tell them the state of the world.</p>
 <p>Do you still reconcile your bank statements? If you are like most of us, you just trust that your bank isn&rsquo;t skimming money off the top and hoping that you don&rsquo;t notice. You are trusting companies which run by sinful corrupt humans to manage your money for you. They hold all the cards, and leave you with nothing more than a pat on the head and a bank statement as a consolation prize.</p>
 
 
@@ -208,7 +208,7 @@
 </figure>
 
 <p>Bitcoin addresses are derived from a public key. When you spend bitcoin, your wallet software will sign the input of the transaction with your private key, proving that you have the authority to spend the bitcoin which was associated with that input.</p>
-<p>What this means is that every single transaction on the Bitcoin network is guaranteed to be unforgable - no person has ever spent any amount of bitcoin that they weren&rsquo;t authorized to spend.</p>
+<p>What this means is that every single transaction on the Bitcoin network is guaranteed to be unforgeable - no person has ever spent any amount of bitcoin that they weren&rsquo;t authorized to spend.</p>
 <h2 id="proof-of-work">Proof of Work</h2>
 <p>In a centralized system, it&rsquo;s easy to determine the state of the world. When VISA says that the transaction has gone through, everyone accepts it as truth.</p>
 <p>In a decentralized system, however, it&rsquo;s quite a bit trickier. What is to prevent me from taking some of my bitcoin and sending it to you, while simultaneously creating another transaction that sends the same bitcoin to someone else?</p>
@@ -230,7 +230,7 @@ b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4  -
 <p>The number of zeros they are looking for is determined automatically by the Bitcoin protocol, and is self-adjusting such that blocks are &ldquo;solved&rdquo; every 10 minutes, on average.</p>
 <h3 id="how-does-the-nonce-solve-the-byzantine-generals-problem">How does the nonce solve the Byzantine Generals problem?</h3>
 <p>The Bitcoin protocol specifies that the longest chain of blocks represents the true state of the network.</p>
-<p>Because of the tremendous tremendous amount of computational power required to solve the solution, it&rsquo;s not possible for someone to alter the state of a transaction once it has a few blocks mined on top of it.</p>
+<p>Because of the tremendous amount of computational power required to solve the solution, it&rsquo;s not possible for someone to alter the state of a transaction once it has a few blocks mined on top of it.</p>
 <p>Since every block references the previous block, if you changed any block in the past, it would invalidate the hashes of every subsequent block, and you would have to go back and re-mine them all.</p>
 <p>Since the rest of the world will trust that the longest chain is true, you would need to be able to re-mine every subsequent block faster than the rest of the world&rsquo;s miners are producing regular blocks.</p>
 <h3 id="why-would-someone-do-all-that-work-to-mine">Why would someone do all that work to mine?</h3>
@@ -241,7 +241,7 @@ b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4  -
 </blockquote>
 <p>When you submit a transaction to the Bitcoin network, you offer a tip to whichever miner will include your transaction in a block. Space in the blockchain is precious, so there&rsquo;s always competition to get in. Miners will prioritize transactions that tip the best, at the cost of increased expense for the sender.</p>
 <p>The other incentive for miners is also the mechanism by which new bitcoin is drip-fed into the system. Whichever miner solves the block is allowed to pay themselves a block reward.</p>
-<p>This reward was 50 BTC. It is programatically cut in half every 4 years (210,000 blocks), and is currently 6.25 BTC.</p>
+<p>This reward was 50 BTC. It is programmatically cut in half every 4 years (210,000 blocks), and is currently 6.25 BTC.</p>
 <h3 id="results">Results</h3>
 <p>The result of this layered approach to security is a system whereby individual participants are empowered to be financially sovereign. They are not required to place any trust in any individual, and need not ask for permission to transfer their own money to anyone, anywhere, at any time.</p>
 <p>Miners are compensated on the free market. They are paid for the work they do, and require no permission or consent to mine. Nobody directs them what transactions to include. If a miner doesn&rsquo;t include your transaction, then it creates an opportunity for someone else to earn your transaction fee. Unlike commodity mining in the physical world, all miners globally are in a winner-take-all competition for the same fees and block rewards. They have a tremendous investment in hardware, and thus are incentivized to not misbehave. If all miners colluded together to refuse to mine transactions, they would reduce the desirability of the network, and would thus be biting the hand that feeds them. They are employees of the network, not it&rsquo;s masters.</p>
