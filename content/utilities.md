@@ -32,4 +32,4 @@ A Bitcoin block allows you to view information about the state of the bitcoin ne
 
 You can look up your own transactions here, and my node will verify that it knows about them and that they have actually occurred as expected.
 
-{{< tail >}}
+{{% tail %}}

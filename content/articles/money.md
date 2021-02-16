@@ -93,4 +93,4 @@ There will only ever be 21 million bitcoin. Due to Bitcoin being a digital money
 
 Bitcoin is honest money. It's built upon the idea that we are all fallen, sinful men. Nobody can be trusted to honestly and incorruptibly hold the keys to the monetary printing press.
 
-{{< tail >}}
+{{% tail %}}

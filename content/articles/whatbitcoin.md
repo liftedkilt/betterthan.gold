@@ -112,5 +112,4 @@ Miners are compensated on the free market. They are paid for the work they do, a
 For a visual explanation of this process, check out this video:
 {{< youtube bBC-nXj3Ng4 >}}
 
-
-{{< tail >}}
+{{% tail %}}

@@ -31,4 +31,4 @@ But if you don't, you will have to explain to your children why you were too apa
 
 #### If you choose to go down the Bitcoin rabbit hole, there's no going back.
 
-{{< tail >}}
+{{% tail %}}

@@ -77,4 +77,4 @@ BlockFi's rates are far better than Unchained, but come with the caveat that Blo
 
 If it was a smaller short-duration loan, I would feel comfortable using BlockFi. If I was putting up significant capital, I would feel safer with Unchained.
 
-{{< tail >}}
+{{% tail %}}
