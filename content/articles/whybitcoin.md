@@ -31,12 +31,4 @@ But if you don't, you will have to explain to your children why you were too apa
 
 #### If you choose to go down the Bitcoin rabbit hole, there's no going back.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-## Ready to learn more?
-Here are some [resources](/resources) that I have found helpful in my own pursuit of understanding of Bitcoin.
+{{< tail >}}

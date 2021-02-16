@@ -61,7 +61,7 @@ In our modern economy, the central banks and the Federal Reserve take on the rol
 
 The dollar is increasing it's supply at an exponentially increasing amount. Any money you have sitting in a bank account is losing purchasing power at an alarming rate.
 
-This rise can be clearly seen when measuring the price of scarce goods, such as real estate, art, an Ivy League education. Said another way, your dollar buys less every year than it did the previous year. 
+This rise can be clearly seen when measuring the price of scarce goods, such as real estate, art, an Ivy League education. Said another way, your dollar buys less every year than it did the previous year.
 
 {{< figure src="/images/declining_dollar.jpg" caption="*$1 was quite a bit of money in 1913. What has happened to it's purchasing power since then?*" >}}
 
@@ -78,7 +78,7 @@ This is where it gets troubling. Because the total supply of gold is unknown, it
 If too many people requested delivery of *their* gold, the COMEX will simply change the rules and blacklist the offenders. This occurred in the 1980s when the Hunt brothers attempted to expose the same corruption in the silver markets.
 
 The price discovery mechanism in gold has failed because gold is physical, and relies on the trustworthiness of those who custody it.
- 
+
 The pennies on our island and gold both failed for the same reason - they implicitly relied on trust. In order to solve our draining battery problem, we need a new money that doesn't ever drain, and is completely trustless.
 
 ### Don't trust, verify.
@@ -87,18 +87,10 @@ This is one of the many things that bitcoin has finally solved. Bitcoin is a dig
 
 {{< figure src="/images/bitcoin_supply.png" caption="*This is the programmatic bitcoin supply*" >}}
 
-As a decentralized money, nobody controls the issuance of it. It has been predetermined, and is available for all to see. It's perfectly fair, and no government, bank, or cantillonaire can impose their will upon it. 
+As a decentralized money, nobody controls the issuance of it. It has been predetermined, and is available for all to see. It's perfectly fair, and no government, bank, or cantillonaire can impose their will upon it.
 
 There will only ever be 21 million bitcoin. Due to Bitcoin being a digital money, the total supply of bitcoin is perfectly auditable at any time, by anyone (see [this](https://blog.btse.com/audit-bitcoin/) for more information.) If anyone were to ever attempt to cheat and create more bitcoin than they had earned or purchased, it would be instantly rejected by the entirety of the network.
 
 Bitcoin is honest money. It's built upon the idea that we are all fallen, sinful men. Nobody can be trusted to honestly and incorruptibly hold the keys to the monetary printing press.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-## Ready to learn more?
-Here are some [resources](/resources) that I have found helpful in my own pursuit of understanding of Bitcoin.
+{{< tail >}}

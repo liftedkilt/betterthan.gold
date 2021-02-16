@@ -32,12 +32,4 @@ A Bitcoin block allows you to view information about the state of the bitcoin ne
 
 You can look up your own transactions here, and my node will verify that it knows about them and that they have actually occurred as expected.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-## Ready to learn more?
-Here are some [resources](/resources) that I have found helpful in my own pursuit of understanding of Bitcoin.
+{{< tail >}}

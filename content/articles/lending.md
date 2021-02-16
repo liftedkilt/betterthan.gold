@@ -35,7 +35,7 @@ Of course not! You would thank the Lord that your life savings had been stored i
 
 Now we can answer the first question - what utility does bitcoin provide if you should never sell it?
 
-### Collateral. 
+### Collateral.
 Bitcoin is the most pristine collateral the world has ever seen. You should post your bitcoin as collateral, and borrow against it into the weaker currency.
 
 Let's run through an example to see how that would work:
@@ -71,18 +71,10 @@ In the meantime, there are two main places to go.
 
 [Unchained Capital](https://unchained-capital.com/loans/) offers a 40% LTV ratio with APR between 11 and 14%.
 
-[BlockFi](https://blockfi.com/?ref=deeb3afc) is currently offering 4.5% APR on a 50% LTV 12 month loan. 
+[BlockFi](https://blockfi.com/?ref=deeb3afc) is currently offering 4.5% APR on a 50% LTV 12 month loan.
 
-BlockFi's rates are far better than Unchained, but come with the caveat that BlockFi engages in [rehypothecation](https://blockfi.com/an-introduction-to-rehypothecation-with-cryptocurrency). Does this matter in the short term? Probably not. But DYOR, and only take on risk you are comfortable with. 
+BlockFi's rates are far better than Unchained, but come with the caveat that BlockFi engages in [rehypothecation](https://blockfi.com/an-introduction-to-rehypothecation-with-cryptocurrency). Does this matter in the short term? Probably not. But DYOR, and only take on risk you are comfortable with.
 
 If it was a smaller short-duration loan, I would feel comfortable using BlockFi. If I was putting up significant capital, I would feel safer with Unchained.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-## Ready to learn more?
-Here are some [resources](/resources) that I have found helpful in my own pursuit of understanding of Bitcoin.
+{{< tail >}}

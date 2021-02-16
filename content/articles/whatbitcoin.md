@@ -113,12 +113,4 @@ For a visual explanation of this process, check out this video:
 {{< youtube bBC-nXj3Ng4 >}}
 
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-## Ready to learn more?
-Here are some [resources](/resources) that I have found helpful in my own pursuit of understanding of Bitcoin.
+{{< tail >}}
