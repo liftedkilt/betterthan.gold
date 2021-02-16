@@ -3,6 +3,7 @@ title: "What actually is Bitcoin?"
 date: 2021-02-11T10:04:18-08:00
 draft: false
 featured_image: "images/what_is_bitcoin.jpg"
+tags: ["mining","PoW"]
 ---
 
 Bitcoin is a peer-to-peer, distributed ledger. It's merely a large record of who has the right to spend what. The beauty lies in the simplicity.
