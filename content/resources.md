@@ -20,15 +20,15 @@ Swan Bitcoin is run by a team that really cares about Bitcoin. They are a Bitcoi
 
 
 **[The Bitcoin Standard](https://amzn.to/3jDLn3Y) -**
-This is the foundation of understanding the history of money, and the effects that fiat money have had on almost every aspect of our life. It is a thorough refutation of everything you learned in school, and explains why the last 100 years of monetary history are an aberration.
+This is the foundation of understanding the history of money and the effects that fiat money have had on almost every aspect of our life. It is a thorough refutation of everything you learned in school, and explains why the last 100 years of monetary history are an aberration.
 
 
 **[Layered Money](https://amzn.to/3rFTiR5) -**
-An analysis of money as as viewed through a framework of layers, and why Bitcoin will become the base layer of all global money. This book was very helpful in expanding my understanding of the workings of the current monetary system, and why it developed the way that it did.
+An analysis of money as viewed through a framework of layers, and why Bitcoin will become the base layer of all global money. This book was very helpful in expanding my understanding of the workings of the current monetary system, and why it developed the way that it did.
 
 
 **[Thank God for Bitcoin](https://amzn.to/3tO3sAO) -**
-Attempts to ask and answer such questions such as:
+This book attempts to ask and answer questions such as:
 - What are the effects of our monetary system on our culture?
 - Does our choice of money influence our morality?
 - Do Christians have an obligation to fight for sound money?
@@ -36,7 +36,7 @@ Attempts to ask and answer such questions such as:
 
 
 **[The Price of Tomorrow](https://amzn.to/3pcIdFw) -**
-Why inflation is doomed to fail, and deflation is the key to future prosperity.
+Why inflation is doomed to fail and why deflation is the key to future prosperity.
 
 
 ---
