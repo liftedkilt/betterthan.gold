@@ -12,7 +12,7 @@ menu: main
 <!--more-->
 ## Purchasing Bitcoin
 **[Swan Bitcoin](https://swanbitcoin.com/betterthangold) -**
-Swan Bitcoin is run by a team that really cares about Bitcoin. They are a Bitcoin only-company, and are focused on its power as a force-multiplier in the fight to remove the nearly omnipotent power that Central Banks currently wield.
+Swan Bitcoin is run by a team that really cares about Bitcoin. They are a Bitcoin-only company run by a team that really cares about Bitcoin.
 
 ---
 
